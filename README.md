@@ -1,3 +1,4 @@
 # PowrFlow
 Classic PowerFlow Algorithm Based on MatPower
-file with surfix was modified on the basis of matpower.
+Files  with surfix "_LAB110" was modified on the basis of matpower.
+The jaccobi matrix is computed with classic power flow theroy.
